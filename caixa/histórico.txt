@@ -1,0 +1,1 @@
+pedro; salario; saldo: 2442; novo saldo: 742;
